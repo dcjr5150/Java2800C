@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
         
-        System.out.println("Intro to Arrays: );
+        System.out.println("Intro to Arrays: ");
 
     }
 
