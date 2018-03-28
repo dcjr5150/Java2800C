@@ -1,0 +1,6 @@
+1. Preset all the values for the variables from the document with the provided number, if no number was provided set it to zero or the default value.
+2. Enter a do/while loop that will cycle between each machine depositing one quarter in and then checking on if that machine is ready to pay out.
+3. If it is it will display a message saying winner along with the machine number and the amount won along with the new balance in the quarter jar.
+4. If the machine is not ready to pay it will pass on to the next and loop around until one pays out based on the values provided.
+5. After the quarter jar is empty the program will display the number of wins on each machine and the total number of plays on each machine.
+6. And then exit.
