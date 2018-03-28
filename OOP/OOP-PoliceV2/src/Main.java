@@ -4,9 +4,9 @@ public class Main {
 
     public static void main(String args[]){
 
-        Name cop = createCop();
+       // Name cop = createCop();
 
-        System.out.println(cop);
+      //  System.out.println(cop);
 
     }// end of main
 
