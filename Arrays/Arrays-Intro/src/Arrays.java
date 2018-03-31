@@ -34,6 +34,8 @@ public class Arrays {
         System.out.println("—————");
         displayArray(myArray);
 
+        System.out.println("Update to Arrays");
+
     }// End of main
 
     private static void sortArray(double[] sortArray) {
